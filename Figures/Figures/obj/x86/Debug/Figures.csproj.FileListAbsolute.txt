@@ -1,0 +1,4 @@
+D:\Programming languages ​​and methods\Figures\Figures\bin\Debug\Figures.exe
+D:\Programming languages ​​and methods\Figures\Figures\bin\Debug\Figures.pdb
+D:\Programming languages ​​and methods\Figures\Figures\obj\x86\Debug\Figures.exe
+D:\Programming languages ​​and methods\Figures\Figures\obj\x86\Debug\Figures.pdb
