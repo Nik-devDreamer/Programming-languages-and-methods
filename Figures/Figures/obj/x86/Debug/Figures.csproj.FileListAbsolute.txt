@@ -1,0 +1,13 @@
+D:\Programming languages ​​and methods\Figures\Figures\bin\Debug\Figures.exe
+D:\Programming languages ​​and methods\Figures\Figures\bin\Debug\Figures.pdb
+D:\Programming languages ​​and methods\Figures\Figures\obj\x86\Debug\Figures.exe
+D:\Programming languages ​​and methods\Figures\Figures\obj\x86\Debug\Figures.pdb
+D:\Programming languages ​​and methods\Figures\Figures\obj\x86\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Users\PGU\Downloads\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\PGU\Downloads\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\PGU\Downloads\Figures\Figures\obj\x86\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\PGU\Downloads\Figures\Figures\obj\x86\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\PGU\Downloads\Figures\Figures\obj\x86\Debug\Figures.exe
+C:\Users\PGU\Downloads\Figures\Figures\obj\x86\Debug\Figures.pdb
+D:\Загрузки\Telegram Desktop\Figures\Figures\obj\x86\Debug\Figures.exe
+D:\Загрузки\Telegram Desktop\Figures\Figures\obj\x86\Debug\Figures.pdb
