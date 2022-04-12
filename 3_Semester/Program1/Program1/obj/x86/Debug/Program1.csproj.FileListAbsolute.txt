@@ -1,0 +1,4 @@
+D:\Programming languages ​​and methods\Program1\Program1\bin\Debug\Program1.exe
+D:\Programming languages ​​and methods\Program1\Program1\bin\Debug\Program1.pdb
+D:\Programming languages ​​and methods\Program1\Program1\obj\x86\Debug\Program1.exe
+D:\Programming languages ​​and methods\Program1\Program1\obj\x86\Debug\Program1.pdb

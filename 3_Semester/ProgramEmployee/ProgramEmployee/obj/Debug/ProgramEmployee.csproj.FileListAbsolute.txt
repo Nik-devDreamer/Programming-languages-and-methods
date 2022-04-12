@@ -1,0 +1,6 @@
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\bin\Debug\ProgramEmployee.exe.config
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\obj\Debug\ProgramEmployee.csprojResolveAssemblyReference.cache
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\bin\Debug\ProgramEmployee.exe
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\bin\Debug\ProgramEmployee.pdb
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\obj\Debug\ProgramEmployee.exe
+D:\Programming languages ​​and methods\ProgramEmployee\ProgramEmployee\obj\Debug\ProgramEmployee.pdb
